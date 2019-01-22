@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Demo-Oa-dator.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  compilation object save succeeded; see C:\Users\MansB\OneDrive\Dokument\BTH-Oa-dator\År 2\DV1542\Direct3D_template\x64\Debug\Fragment.cso
+C:\Users\MansB\OneDrive\Dokument\BTH-Oa-dator\�r 2\DV1542\Direct3D_template\GeometryShader.hlsl(24,35-97): warning X3206: 'cross': implicit truncation of vector type
+C:\Users\MansB\OneDrive\Dokument\BTH-Oa-dator\�r 2\DV1542\Direct3D_template\GeometryShader.hlsl(24,35-97): warning X3206: 'cross': implicit truncation of vector type
+C:\Users\MansB\OneDrive\Dokument\BTH-Oa-dator\�r 2\DV1542\Direct3D_template\GeometryShader.hlsl(35,12): warning X3078: 'i': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  
+  compilation object save succeeded; see C:\Users\MansB\OneDrive\Dokument\BTH-Oa-dator\År 2\DV1542\Direct3D_template\x64\Debug\GeometryShader.cso
+  compilation object save succeeded; see C:\Users\MansB\OneDrive\Dokument\BTH-Oa-dator\År 2\DV1542\Direct3D_template\x64\Debug\Vertex.cso
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  main.cpp
+  Generating Code...
+  Demo.vcxproj -> C:\Users\MansB\OneDrive\Dokument\BTH-Oa-dator\År 2\DV1542\Direct3D_template\x64\Debug\Demo.exe
